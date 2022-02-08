@@ -12,7 +12,6 @@ I love using different technologies to bring innovative ideas to life through po
 - 💭 Formulating the framework for a personal project
 - 🔭 Working on portfolio site 
 - 📚 Currently reading The Remains of the Day - Kazuo Ishiguro
-- 🤔 Interested in metaverse
 
 
 ## Connect 
